@@ -29,7 +29,6 @@ You will also need:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/ShakyaDissanayake/Game-Of-Life-With-MPI4PY.git
-    cd game-of-life-cuda-tkinter
     ```
 
 2. **Create a virtual environment (optional but recommended)**:
